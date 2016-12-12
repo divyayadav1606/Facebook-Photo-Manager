@@ -4,6 +4,7 @@
 An android app to manage Facebook Photos & Albums.
 
 # Features
-1. Display all Photos/Albums
-2. Download Photos/Albums on the phone
-3. Upload Photos/Albums to Facebook
+1. Facebook Login
+2. Display all Photos/Albums
+3. Download Photos/Albums on the phone
+4. Upload Photos/Albums to Facebook

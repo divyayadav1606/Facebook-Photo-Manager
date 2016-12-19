@@ -1,4 +1,5 @@
-<img src="https://github.com/divyayadav1606/Facebook-Photo-Manager/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"  width="10%" align="center"/># Facebook-Photo-Manager
+<img src="https://github.com/divyayadav1606/Facebook-Photo-Manager/blob/master/app/src/main/res/mipmap-hdpi/ic_launcher.png"  width="10%" align="center"/> 
+# Facebook-Photo-Manager
 
 # Project Objective
 An android app to manage Facebook Photos & Albums.

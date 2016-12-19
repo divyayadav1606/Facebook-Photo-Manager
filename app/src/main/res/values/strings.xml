@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Photo Manager</string>
+
+    <string name="facebook_app_id">979381038833802</string>
+    <string name="fb_login_protocol_scheme">fb979381038833802</string>
+    
+</resources>
